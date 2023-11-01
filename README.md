@@ -9,7 +9,7 @@ In this project, we apply [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_
 ![paretovol](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/6a9cfa5b-3fec-4933-af23-df0b27672be9)  
 **Figure 2:** Simulated equity trading volume using Pareto distribution.   
 
-**Tech Stack:** Python (scipy, numpy, pandas, matplotlib, jupyter).  
+**Tech Stack:** Python (scipy, numpy, pandas, matplotlib, jupyter), GitHub
 
 
 # 2. Notebooks
