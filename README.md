@@ -1,5 +1,5 @@
-# 1. Monte Carlo Simulation in Equity Trading  
-In this project, we apply [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulation in equity trading. Particularly,  
+# Monte Carlo Simulation in Equity Trading  
+In this study, we apply [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulation in equity trading. Particularly,  
 
 (1) We apply the [**Geometric Brownian Motion (GBM)**](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) to simulate equity prices (Figure 1).  
 ![gbm](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/330c43b3-b4fa-44ba-9338-aa553b9825fc)  
@@ -12,7 +12,7 @@ In this project, we apply [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_
 **Tech Stack:** Python (scipy, numpy, pandas, matplotlib, jupyter), GitHub
 
 
-# 2. Notebooks
+# Notebooks
 In this section, we describe the **notebooks** of the project.  
 
 - **lognormal_distribution.ipynb**  
@@ -27,7 +27,7 @@ This notebook contains a Python implementation of simulating **equity prices**. 
 - **simulating_trading_volume.ipynb**  
 This notebook contains a Python implementation of simulating **equity trading volume**. The notebook provides an overview of how to simulate equity trading volume using the Pareto distribution. Using a Pareto distribution, the simulation generates integer trading volumes for equities. The generated data, resembling typical large-cap equity volumes, lacks correlation with asset prices and does not exhibit autocorrelation.  
 
-# 3. Environment
+# Environment
 We recommend installing [**Anaconda Distribution**](https://docs.anaconda.com/free/anaconda/index.html) before running the [Jupyter](https://jupyter.org/) notebooks as Anaconda provides a powerful package management system called Conda, which can handle complex software environments and ensures compatibility between different packages. Conda simplifies the setup process and avoids version conflicts.   
 
 - Download Anaconda Distribution from this [page](https://www.anaconda.com/download) and run the installer.  
@@ -39,7 +39,7 @@ We recommend installing [**Anaconda Distribution**](https://docs.anaconda.com/fr
 - Navigate to the directory of this project on your system. 
 
 
-# 4. Execution  
+# Execution  
 In this section, we describe the steps to **run** the notebooks. To run any notebook, open the notebook first. Then, in the toolbar of the notebook, click on the option **Run** and then select **Run All Cells** from the dropdown menu. The notebook will start executing each cell sequentially from top to bottom.  
 
 As there are no dependencies between the notebooks, one can run one or several of the notebooks in any order. For a beginner interested in Monte Carlo simulation in finance, we **recommend** the order below. This will ensure one has the sufficient proability background before looking at how we applied the probability concepts in our simulations.  
