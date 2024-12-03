@@ -1,11 +1,11 @@
 # Monte Carlo Simulation in Equity Trading  
 In this study, we apply [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulation in equity trading. Particularly,  
 
-[1] We apply the [**Geometric Brownian Motion (GBM)**](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) to simulate equity prices (Figure 1).  
+- We apply the [**Geometric Brownian Motion (GBM)**](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) to simulate equity prices (Figure 1).  
 ![gbm](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/330c43b3-b4fa-44ba-9338-aa553b9825fc)  
 **Figure 1:**  Simulated equity price paths using GBM.  
 
-[2] Also, we use the [**Pareto distribution**](https://en.wikipedia.org/wiki/Pareto_distribution) to simulate equity trading volume (Figure 2).  
+- Also, we use the [**Pareto distribution**](https://en.wikipedia.org/wiki/Pareto_distribution) to simulate equity trading volume (Figure 2).  
 ![paretovol](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/6a9cfa5b-3fec-4933-af23-df0b27672be9)  
 **Figure 2:** Simulated equity trading volume using Pareto distribution.   
 
