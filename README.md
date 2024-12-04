@@ -1,5 +1,10 @@
-# Monte Carlo Simulation in Equity Trading  
+# Monte Carlo Simulation in Equity Trading 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+
+## Overview
 This project explores the application of [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulations in equity trading, leveraging statistical distributions to model financial behaviors. The methodologies implemented include:  
 
 - **Geometric Brownian Motion (GBM)**: Simulating equity price paths (Figure 1).  
