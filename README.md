@@ -70,3 +70,17 @@ We welcome contributions! Please feel free to submit pull requests or open issue
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details. 
+
+## Citation  
+
+If you use this work in your research, please cite:  
+
+```bibtex
+@misc{monte-carlo-equity-trading,
+  author = {Shadman, Nabil},
+  title = {Monte Carlo Simulation in Equity Trading},
+  year = {2023},
+  publisher = {GitHub},
+  url = {https://github.com/nabilshadman/monte-carlo-simulation-trading}
+}
+```
