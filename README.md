@@ -103,6 +103,6 @@ If you use this work in your research, please cite:
   title = {Monte Carlo Simulation in Equity Trading},
   year = {2023},
   publisher = {GitHub},
-  url = {https://github.com/nabilshadman/monte-carlo-simulation-trading}
+  url = {https://github.com/nabilshadman/monte-carlo-simulation-equity-trading/}
 }
 ```
