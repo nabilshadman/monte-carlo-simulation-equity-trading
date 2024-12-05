@@ -5,19 +5,36 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 
 ## Overview
-This project explores the application of [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulations in equity trading, leveraging statistical distributions to model financial behaviors. The methodologies implemented include:  
+This project explores the application of [**Monte Carlo**](https://en.wikipedia.org/wiki/Monte_Carlo_method) simulations in equity trading, leveraging statistical distributions to model financial behaviors.
 
-- **Geometric Brownian Motion (GBM)**: Simulating equity price paths (Figure 1).  
-  ![gbm](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/330c43b3-b4fa-44ba-9338-aa553b9825fc)  
-  *Figure 1: Simulated equity price paths using GBM.*  
+The methodologies implemented include:
+- **Geometric Brownian Motion (GBM)**: Simulating equity price paths
+- **Pareto Distribution**: Simulating equity trading volumes
 
-- **Pareto Distribution**: Simulating equity trading volumes (Figure 2).  
-  ![paretovol](https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/6a9cfa5b-3fec-4933-af23-df0b27672be9)  
-  *Figure 2: Simulated equity trading volume using Pareto distribution.*  
+<table width="100%">
+<tr>
+<td width="50%"><strong>Geometric Brownian Motion (GBM)</strong></td>
+<td width="50%"><strong>Pareto Distribution</strong></td>
+</tr>
+<tr>
+<td><img src="https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/330c43b3-b4fa-44ba-9338-aa553b9825fc" width="100%" alt="Simulated equity price paths using GBM"></td>
+<td><img src="https://github.com/nabilshadman/monte-carlo-simulation-trading/assets/13073461/6a9cfa5b-3fec-4933-af23-df0b27672be9" width="100%" alt="Simulated equity trading volume using Pareto distribution"></td>
+</tr>
+<tr>
+<td><em>Simulating equity price paths</em></td>
+<td><em>Simulating equity trading volumes</em></td>
+</tr>
+</table>
 
-**Tech Stack**: Python (scipy, numpy, pandas, matplotlib, jupyter), GitHub.
+### Tech Stack
+- **Python Libraries**: 
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+- **Development Environment**: Jupyter Notebook
+- **Version Control**: GitHub
 
----
 
 ## Notebooks  
 
